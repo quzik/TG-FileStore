@@ -43,7 +43,7 @@
         "SHORTLINK_URL": {
             "description": "Shortlink Domain URL To Use it to short Links. Example: tnshort.net"
         },
-        "SHORTLINK_API": {
+        "PORT": {
             "description": "Shortlink API To Use it to short Links. Example: tnsh45ort123shor6789"
         },
         "LOG_CHANNEL": {
